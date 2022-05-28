@@ -14,7 +14,7 @@
         <p class="subtitle">Swiss psychologist</p>
         <figure id="img-div">
           <img
-            src="./karl-jung.webp"
+            src="[./karl-jung.webp](https://i.postimg.cc/DzkKsCJW/karl-jung.webp)"
             alt="Carl Gustav Jung swiss psychologist"
             id="img"
           />
