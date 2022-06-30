@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,800;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #2B2D42;
+    background-color: #8D99AE;
+}
+
+#title {
+    font-size: 2.5rem;
+    padding-top: 2rem;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 100px auto;
+    padding: 2rem;
+    background-color: #EDF2F4;
+    border-radius: 5px;
+}
+
+#main {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.subtitle {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+#img-caption {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#img-caption,  
+#tribute-info {
+    text-align: center;
+    padding: 15px;
+}
+
+.timeline {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.timeline > h2 {
+    margin: 2rem 0;
+    font-size: 2rem;
+}
+
+.timeline > ul > li {
+    padding: 5px 0;
+    text-align: left;
+}
+
+.year {
+    font-weight: 700;
+    padding-right: 5px;
+}
+
+#tribute-info {
+    margin-top: 2rem;
+}
+a#tribute-link {
+    color: #EF233C;
+    text-decoration: none;
+}
+
+a#tribute-link:hover {
+    color: #D90429;
+    text-decoration: underline;
+}
