@@ -85,3 +85,8 @@ a#tribute-link:hover {
     color: #D90429;
     text-decoration: underline;
 }
+
+.copy {
+    text-align: center;
+    margin-bottom: 1rem;
+}
